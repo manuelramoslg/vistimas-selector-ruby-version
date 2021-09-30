@@ -1,2 +1,18 @@
-# vistimas-selector-ruby-version
-La generación G5 de Data Scientist Desafio Latam sufre de miedo escénico por lo que es necesario crear una aplicación que seleccione una vistima aleatoria para participar en clases. Esta aplicación también puede ser usada para cosas más productivas como: seleccionar la vistima que va a conducir mientras sus amigos beben y disfrutan de la vida, …
+## Seleccionar Vistimas
+
+- Para Ejecutar la aplicación de seguir los siguientes pasos:
+
+  ### Instalar librerias
+  ```
+  gem install bundle
+  bundle
+  ```
+
+  ## Ejecutar aplicación
+  ```
+  ruby vistima.rb g1
+  ```
+
+  ## Generaciones
+  - Están disponibles las siguientes generaciones(g1, g3, g3, g4 ,g5)
+  - Para actualizar las generaciones se debe editar el archivo excel.
